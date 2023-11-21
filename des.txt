@@ -1,0 +1,45 @@
+[{
+	"resource": "/d:/turtle/beranda.html",
+	"owner": "_generated_diagnostic_collection_name_#3",
+	"code": "css-semicolonexpected",
+	"severity": 8,
+	"message": "semi-colon expected",
+	"source": "css",
+	"startLineNumber": 15,
+	"startColumn": 12,
+	"endLineNumber": 15,
+	"endColumn": 13
+},{
+	"resource": "/d:/turtle/beranda.html",
+	"owner": "_generated_diagnostic_collection_name_#3",
+	"code": "css-lcurlyexpected",
+	"severity": 8,
+	"message": "{ expected",
+	"source": "css",
+	"startLineNumber": 16,
+	"startColumn": 14,
+	"endLineNumber": 16,
+	"endColumn": 15
+},{
+	"resource": "/d:/turtle/beranda.html",
+	"owner": "_generated_diagnostic_collection_name_#3",
+	"code": "css-lcurlyexpected",
+	"severity": 8,
+	"message": "{ expected",
+	"source": "css",
+	"startLineNumber": 17,
+	"startColumn": 17,
+	"endLineNumber": 17,
+	"endColumn": 18
+},{
+	"resource": "/d:/turtle/beranda.html",
+	"owner": "_generated_diagnostic_collection_name_#3",
+	"code": "css-ruleorselectorexpected",
+	"severity": 8,
+	"message": "at-rule or selector expected",
+	"source": "css",
+	"startLineNumber": 18,
+	"startColumn": 5,
+	"endLineNumber": 18,
+	"endColumn": 6
+}]
